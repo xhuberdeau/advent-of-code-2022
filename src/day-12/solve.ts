@@ -33,4 +33,4 @@ const secondPart = grid
   }, Infinity);
 
 console.log(`First part: ${firstPart}`);
-console.log(`Second part:\n${secondPart}`);
+console.log(`Second part: ${secondPart}`);
